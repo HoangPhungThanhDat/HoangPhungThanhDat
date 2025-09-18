@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/HoangPhungThanhDat">
-    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=ff4500&center=true&vCenter=true&width=800&fontWeight=bold&lines=👋+Xin+chào%2C+mình+là+Hoàng+Phùng+Thanh+Đạt;💻+Backend+Developer;+Laravel+%7C+React+%7C+Spring+Boot;+Coding+is+my+magic!" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=ff4500&center=true&vCenter=true&width=800&fontWeight=bold&lines=👋+Xin+chào%2C+mình+là+Hoàng+Phùng+Thanh+Đạt;💻+Backend+Developer;+Laravel+%7C+React+%7C+Spring+Boot;+Coding+is+my+magic!" />
   </a>
 </p>
 
