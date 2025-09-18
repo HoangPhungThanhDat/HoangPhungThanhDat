@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/HoangPhungThanhDat">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=ff79c6&center=true&vCenter=true&width=600&lines=👋+Xin+chào%2C+mình+là+Hoàng+Phùng+Thanh+Đạt;💻+Fullstack+Developer;🚀+Yêu+thích+Laravel%2C+React+và+Java;🌌+Coding+is+my+magic!" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=ff4500&center=true&vCenter=true&width=700&lines=👋+Xin+chào%2C+mình+là+Hoàng+Phùng+Thanh+Đạt;💻+Fullstack+Developer;🚀+Laravel+%7C+React+%7C+Spring+Boot;🌌+Coding+is+my+magic!" />
   </a>
 </p>
 
@@ -12,11 +12,11 @@
 
 ## 🧙 About Me
 ✨ Một chút huyền bí về mình:  
-- 🧑‍💻 Fullstack Developer từ **Việt Nam**  
+- 🧑‍💻 Fullstack Developer đến từ **Việt Nam**  
 - ⚡ Đam mê **Laravel + React + Spring Boot**  
-- 🌱 Hiện đang khám phá **Microservices & Cloud**  
+- 🌱 Khám phá **Microservices & Cloud**  
 - 🎯 Mục tiêu: Trở thành **Senior Backend Developer**  
-- 🎮 Ngoài code, mình còn thích **game, âm nhạc và thiết kế**  
+- 🎮 Ngoài code còn thích **game, âm nhạc và thiết kế**  
 
 ---
 
@@ -57,9 +57,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HoangPhungThanhDat&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangPhungThanhDat&theme=dracula&hide_border=false&layout=compact" height="150"/>
 </p>
 
@@ -73,7 +70,7 @@
 ---
 
 ## 🔥 Activity Graph
-[![HoangPhungThanhDat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangPhungThanhDat&bg_color=0D1117&color=ff79c6&line=bd93f9&point=ffb86c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![HoangPhungThanhDat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HoangPhungThanhDat&bg_color=0D1117&color=ff4500&line=ff8c00&point=ffd700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -85,7 +82,9 @@
 ---
 
 ## 👀 Visitor Count
-![Profile views](https://komarev.com/ghpvc/?username=HoangPhungThanhDat&label=Visitors&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HoangPhungThanhDat&label=Visitors&color=ff4500&style=for-the-badge" />
+</p>
 
 ---
 
