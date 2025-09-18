@@ -47,6 +47,7 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+![InfinityFree](https://img.shields.io/badge/infinityfree-0099ff?style=for-the-badge&logo=InfinityFree&logoColor=white)
 
 ### 🎨 Design & Tools
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
