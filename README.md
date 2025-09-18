@@ -16,7 +16,8 @@
 - ⚡ Đam mê **Laravel + React + Spring Boot**  
 - 🌱 Khám phá **Microservices & Cloud**  
 - 🎯 Mục tiêu: Trở thành **Senior Backend Developer**  
-- 🎮 Ngoài code còn thích **game, âm nhạc và thiết kế**  
+- 🎮 Ngoài code còn thích **game, âm nhạc và thiết kế**
+- > 🧙*"Mạch lệnh chạy giữa trời khuya, Dòng code viết tiếp ước mơ ngày nào."*   
 ## 📂 Portfolio
 🚀 Khám phá các dự án của mình tại: [Portfolio của mình](https://portfolio-hoang-dat.vercel.app/)
 
