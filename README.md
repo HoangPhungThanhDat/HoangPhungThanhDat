@@ -16,7 +16,7 @@
 - ⚡ Đam mê **Laravel + React + Spring Boot**  
 - 🌱 Hiện đang khám phá **Microservices & Cloud**  
 - 🎯 Mục tiêu: Trở thành **Senior Backend Developer**  
-- 🎮 Ngoài code, mình còn thích **game, âm nhạc và thiết kế đồ họa**  
+- 🎮 Ngoài code, mình còn thích **game, âm nhạc và thiết kế**  
 
 ---
 
@@ -85,9 +85,8 @@
 ---
 
 ## 👀 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HoangPhungThanhDat&icon=2&color=6" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/HoangPhungThanhDat/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=HoangPhungThanhDat&label=Visitors&color=0e75b6&style=flat)
 
 ---
 
