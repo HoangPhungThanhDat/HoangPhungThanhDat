@@ -1,12 +1,13 @@
-<!-- Banner Hacker -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:003300,100:00ff00&height=250&section=header&text=Hoàng%20Phùng%20Thanh%20Đạt&fontSize=42&fontColor=00ff00&animation=twinkling&fontAlignY=40" />
+<!-- Banner Huyền Bí Hacker Style -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff00,100:0f0f0f&height=300&section=header&text=Hoàng%20Phùng%20Thanh%20Đạt&fontSize=60&fontColor=00ff00&animation=fadeIn&fontAlignY=50&rotate=10" />
 
-<!-- Typing Hacker Style -->
+<!-- Typing Animation Hacker Style -->
 <p align="center">
   <a href="https://github.com/HoangPhungThanhDat">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=👨‍💻+Welcome+to+my+Cyber+Space;⚡+Fullstack+Developer+%7C+Code+Wizard;🚀+Laravel+%7C+React+%7C+Spring+Boot;💡+Think+like+a+Hacker%2C+Code+like+a+Wizard;🌌+Coding+is+my+magic!" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=3000&color=00ff00&center=true&vCenter=true&width=800&lines=👋+Xin+chào,+mình+là+Hoàng+Phùng+Thanh+Đạt;💻+Fullstack+Developer;🚀+Laravel+%7C+React+%7C+Spring+Boot;🌌+Coding+is+my+magic!;⚡+Hacker+Vibes;🛡+Code+Securely" />
   </a>
 </p>
+
 
 ---
 
