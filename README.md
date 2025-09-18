@@ -7,6 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=ff4500&center=true&vCenter=true&width=700&lines=👋+Xin+chào%2C+mình+là+Hoàng+Phùng+Thanh+Đạt;💻+Fullstack+Developer;🚀+Laravel+%7C+React+%7C+Spring+Boot;🌌+Coding+is+my+magic!" />
   </a>
 </p>
+
 ---
 
 ## 🧙 About Me
@@ -16,6 +17,8 @@
 - 🌱 Khám phá **Microservices & Cloud**  
 - 🎯 Mục tiêu: Trở thành **Senior Backend Developer**  
 - 🎮 Ngoài code còn thích **game, âm nhạc và thiết kế**  
+## 📂 Portfolio
+🚀 Khám phá các dự án của mình tại: [Portfolio của mình](https://portfolio-hoang-dat.vercel.app/)
 
 ---
 
