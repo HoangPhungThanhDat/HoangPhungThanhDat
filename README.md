@@ -57,6 +57,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HoangPhungThanhDat&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height="180"/>
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" height="180"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="180"/>
+
+
 
 </p>
 
