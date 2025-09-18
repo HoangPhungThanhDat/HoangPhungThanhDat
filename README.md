@@ -1,3 +1,5 @@
+<!-- Background Banner -->
+<img src="https://i.imgur.com/Zw8VQ0L.png" width="100%" height="auto" />
 <!-- Banner Huyền Bí -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:ff8c00,100:ffd700&height=250&section=header&text=Hoàng%20Phùng%20Thanh%20Đạt&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
@@ -92,3 +94,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
+<!-- Footer Banner -->
+<img src="https://i.imgur.com/Zw8VQ0L.png" width="100%" height="auto" />
