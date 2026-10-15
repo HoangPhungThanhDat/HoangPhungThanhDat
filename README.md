@@ -24,10 +24,10 @@
   <a href="https://github.com/HoangPhungThanhDat" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:hoangdat.engineer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="https://linkedin.com/in/đạt-hoàng-69b60a327" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
@@ -118,10 +118,9 @@ hobbies: [Coding, Gaming, Music, Design]
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HoangPhungThanhDat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&v=2" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=HoangPhungThanhDat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&v=2" />
 </div>
 
-> 💡 Nếu Trophy vẫn không hiện, thử đổi `github-profile-trophy.vercel.app` → `github-profile-trophy-liard-delta.vercel.app` (mirror).
 
 ---
 
@@ -133,11 +132,10 @@ hobbies: [Coding, Gaming, Music, Design]
 
 <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangPhungThanhDat&bg_color=0D1117&color=FF8C00&line=FF4500&point=FFD700&area=true&hide_border=true&custom_title=Hoàng%20Đạt's%20Contribution%20Graph" />
+    <img src="https://github-readme-activity-graph-rose.vercel.app/graph?username=HoangPhungThanhDat&bg_color=0D1117&color=FF8C00&line=FF4500&point=FFD700&area=true&hide_border=true&custom_title=Hoàng%20Đạt's%20Contribution%20Graph" />
   </a>
 </div>
 
-> 💡 Nếu Activity Graph không hiện, thử đổi domain `github-readme-activity-graph.vercel.app` → `github-readme-activity-graph.cyclic.app` hoặc `github-readme-activity-graph-rose.vercel.app`.
 
 ---
 
@@ -158,7 +156,6 @@ hobbies: [Coding, Gaming, Music, Design]
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HoangPhungThanhDat&theme=radical&utcOffset=7" />
 </div>
 
-> 💡 Nếu không hiện, thử đổi domain thành `github-profile-summary-cards-example.vercel.app` hoặc dùng mirror `github-profile-summary-cards.vercel.app` (đang dùng).
 
 ---
 
@@ -204,7 +201,7 @@ hobbies: [Coding, Gaming, Music, Design]
   <a href="https://facebook.com/your-facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:hoangdat.engineer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
