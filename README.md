@@ -10,7 +10,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
   <a href="https://github.com/HoangPhungThanhDat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=750&lines=👋+Xin+chào%2C+mình+là+Hoàng+Phùng+Thành+Đạt;💻+Backend+Developer+%7C+Fullstack;⚡+Laravel+%7C+React+%7C+Spring+Boot;🚀+Coding+is+my+magic!;✨+Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=750&lines=👋+Xin+chào%2C+mình+là+Hoàng+Phùng+Thành+Đạt;💻+Backend+Developer+%7C+Fullstack;⚡+Laravel+%7C+React+%7C+Spring+Boot;🚀+Coding+is+my+magic!;✨+Welcome+to+my+profile!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -106,7 +106,7 @@ hobbies: [Coding, Gaming, Music, Design]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangPhungThanhDat&theme=radical&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF4500&fire=FFD700&currStreakLabel=FF8C00" />
+  <img src="https://streak-stats.demolab.com/?user=HoangPhungThanhDat&theme=radical&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF4500&fire=FFD700&currStreakLabel=FF8C00" />
 </div>
 
 ---
@@ -118,20 +118,10 @@ hobbies: [Coding, Gaming, Music, Design]
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HoangPhungThanhDat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HoangPhungThanhDat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&v=2" />
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    🐍 SNAKE ANIMATION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HoangPhungThanhDat/HoangPhungThanhDat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+> 💡 Nếu Trophy vẫn không hiện, thử đổi `github-profile-trophy.vercel.app` → `github-profile-trophy-liard-delta.vercel.app` (mirror).
 
 ---
 
@@ -146,6 +136,8 @@ hobbies: [Coding, Gaming, Music, Design]
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangPhungThanhDat&bg_color=0D1117&color=FF8C00&line=FF4500&point=FFD700&area=true&hide_border=true&custom_title=Hoàng%20Đạt's%20Contribution%20Graph" />
   </a>
 </div>
+
+> 💡 Nếu Activity Graph không hiện, thử đổi domain `github-readme-activity-graph.vercel.app` → `github-readme-activity-graph.cyclic.app` hoặc `github-readme-activity-graph-rose.vercel.app`.
 
 ---
 
@@ -165,6 +157,8 @@ hobbies: [Coding, Gaming, Music, Design]
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HoangPhungThanhDat&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HoangPhungThanhDat&theme=radical&utcOffset=7" />
 </div>
+
+> 💡 Nếu không hiện, thử đổi domain thành `github-profile-summary-cards-example.vercel.app` hoặc dùng mirror `github-profile-summary-cards.vercel.app` (đang dùng).
 
 ---
 
@@ -214,6 +208,19 @@ hobbies: [Coding, Gaming, Music, Design]
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🐍 SNAKE (CHƯA SETUP - MỞ KHI CẦN)       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HoangPhungThanhDat/HoangPhungThanhDat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+-->
 
 ---
 
