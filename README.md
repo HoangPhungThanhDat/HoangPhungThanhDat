@@ -48,35 +48,183 @@ role: Fullstack Developer
 focus: Backend Engineering
 languages: [Vietnamese, English]
 hobbies: [Coding, Gaming, Music, Design]
-🧑‍💻 Fullstack Developer đến từ Việt Nam
+```
 
-⚡ Đam mê Laravel + React + Spring Boot
+- 🧑‍💻 **Fullstack Developer** đến từ **Việt Nam**
+- ⚡ Đam mê **Laravel + React + Spring Boot**
+- 🌱 Đang khám phá **Microservices & Cloud Computing**
+- 🎯 Mục tiêu: Trở thành **Senior Backend Developer**
+- 🎮 Ngoài code còn thích **game, âm nhạc và thiết kế**
+- 💬 Hỏi mình về: `PHP`, `Laravel`, `Java`, `Spring Boot`, `React`
 
-🌱 Đang khám phá Microservices & Cloud Computing
+<br/>
 
-🎯 Mục tiêu: Trở thành Senior Backend Developer
-
-🎮 Ngoài code còn thích game, âm nhạc và thiết kế
-
-💬 Hỏi mình về: PHP, Laravel, Java, Spring Boot, React
-
-
-🧙 "Mạch lệnh chạy giữa trời khuya,
-Dòng code viết tiếp ước mơ ngày nào."
+> 🧙 *"Mạch lệnh chạy giữa trời khuya,*  
+> *Dòng code viết tiếp ước mơ ngày nào."*
 
 <br clear="both"/>
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 🔮 TECH STACK --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">🔮 Tech Stack</h2><h3 align="center">🎨 Frontend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite&theme=dark" /> </p><h3 align="center">⚙️ Backend</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,express,nestjs&theme=dark" /> </p><h3 align="center">🗄️ Database & Cloud</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,docker,kubernetes,heroku,vercel,aws&theme=dark" /> </p><h3 align="center">🎨 Design & Tools</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,gitlab,vscode,postman,idea,linux&theme=dark" /> </p>
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 📊 GITHUB STATS --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">📊 GitHub Stats</h2><div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoangPhungThanhDat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF4500&text_color=ffffff" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangPhungThanhDat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=ffffff&langs_count=8" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangPhungThanhDat&theme=radical&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF4500&fire=FFD700&currStreakLabel=FF8C00" /> </div>
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 🏆 ACHIEVEMENTS --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">🏆 GitHub Achievements</h2><div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=HoangPhungThanhDat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" /> </div>
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 🐍 SNAKE ANIMATION --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">🐍 Contribution Snake</h2><div align="center"> <img src="https://raw.githubusercontent.com/HoangPhungThanhDat/HoangPhungThanhDat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
-⚠️ Lưu ý: Cần setup GitHub Action cho snake. Nếu chưa có, xem hướng dẫn bên dưới.
 
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 🔥 ACTIVITY GRAPH --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">🔥 Activity Graph</h2><div align="center"> <a href="https://github.com/ashutosh00710/github-readme-activity-graph"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangPhungThanhDat&bg_color=0D1117&color=FF8C00&line=FF4500&point=FFD700&area=true&hide_border=true&custom_title=Hoàng%20Đạt's%20Contribution%20Graph" /> </a> </div>
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 📈 PROFILE SUMMARY --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">📈 Profile Summary</h2><div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoangPhungThanhDat&theme=radical" /> </div><div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoangPhungThanhDat&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HoangPhungThanhDat&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HoangPhungThanhDat&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HoangPhungThanhDat&theme=radical&utcOffset=7" /> </div>
-<!-- ═══════════════════════════════════════════════════════════ --><!-- ✍️ DEV QUOTE --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">✍️ Dev Quote of the Day</h2><div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </div>
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 🎵 SPOTIFY (OPTIONAL) --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">🎵 Currently Vibing To</h2><div align="center"> <a href="https://open.spotify.com/user/your-spotify-id"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=ff8c00&bar_color_cover=false" /> </a> </div>
-⚠️ Cần thay your-spotify-id bằng ID Spotify của bạn (hoặc xoá phần này nếu không dùng).
+---
 
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 👀 VISITOR COUNT --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">👀 Visitor Count</h2><div align="center"> <img src="https://komarev.com/ghpvc/?username=HoangPhungThanhDat&label=Profile%20Views&color=FF4500&style=for-the-badge" /> <img src="https://img.shields.io/github/followers/HoangPhungThanhDat?label=Followers&style=for-the-badge&color=FF8C00&labelColor=0D1117" /> <img src="https://img.shields.io/github/stars/HoangPhungThanhDat?label=Stars&style=for-the-badge&color=FFD700&labelColor=0D1117" /> </div>
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 🤝 CONNECT WITH ME --><!-- ═══════════════════════════════════════════════════════════ --><h2 align="center">🤝 Connect With Me</h2><div align="center"> <a href="https://portfolio-hoang-dat.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="https://github.com/HoangPhungThanhDat"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://facebook.com/your-facebook"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
-<!-- ═══════════════════════════════════════════════════════════ --><!-- 🌊 FOOTER WAVE --><!-- ═══════════════════════════════════════════════════════════ --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,50:2575fc,100:6a11cb&height=150&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=70" /> </div><div align="center"> <i>⭐️ From <a href="https://github.com/HoangPhungThanhDat">HoangPhungThanhDat</a> with ❤️</i> </div> ```
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🔮 TECH STACK                            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🔮 Tech Stack</h2>
+
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite&theme=dark" />
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,express,nestjs&theme=dark" />
+</p>
+
+<h3 align="center">🗄️ Database & Cloud</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,redis,firebase,docker,kubernetes,heroku,vercel,aws&theme=dark" />
+</p>
+
+<h3 align="center">🎨 Design & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,gitlab,vscode,postman,idea,linux&theme=dark" />
+</p>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    📊 GITHUB STATS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoangPhungThanhDat&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF4500&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangPhungThanhDat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=ffffff&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HoangPhungThanhDat&theme=radical&hide_border=true&background=0D1117&stroke=FF8C00&ring=FF4500&fire=FFD700&currStreakLabel=FF8C00" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🏆 ACHIEVEMENTS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HoangPhungThanhDat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🐍 SNAKE ANIMATION                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HoangPhungThanhDat/HoangPhungThanhDat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🔥 ACTIVITY GRAPH                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🔥 Activity Graph</h2>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoangPhungThanhDat&bg_color=0D1117&color=FF8C00&line=FF4500&point=FFD700&area=true&hide_border=true&custom_title=Hoàng%20Đạt's%20Contribution%20Graph" />
+  </a>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    📈 PROFILE SUMMARY                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📈 Profile Summary</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HoangPhungThanhDat&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HoangPhungThanhDat&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HoangPhungThanhDat&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HoangPhungThanhDat&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HoangPhungThanhDat&theme=radical&utcOffset=7" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ✍️ DEV QUOTE                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">✍️ Dev Quote of the Day</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    👀 VISITOR COUNT                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">👀 Visitor Count</h2>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HoangPhungThanhDat&label=Profile%20Views&color=FF4500&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/HoangPhungThanhDat?label=Followers&style=for-the-badge&color=FF8C00&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/HoangPhungThanhDat?label=Stars&style=for-the-badge&color=FFD700&labelColor=0D1117" />
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🤝 CONNECT WITH ME                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://portfolio-hoang-dat.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/HoangPhungThanhDat">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/your-facebook">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    🌊 FOOTER WAVE                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c00,50:2575fc,100:6a11cb&height=150&section=footer&text=Thanks%20for%20visiting!%20✨&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
+</div>
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/HoangPhungThanhDat">HoangPhungThanhDat</a> with ❤️</i>
+</div>
