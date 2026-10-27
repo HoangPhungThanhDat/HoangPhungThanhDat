@@ -74,12 +74,12 @@ hobbies: [Coding, Gaming, Music, Design]
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,vite&theme=dark" />
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,express,nestjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs&theme=dark" />
 </p>
 
 <h3 align="center">🗄️ Database & Cloud</h3>
@@ -118,7 +118,7 @@ hobbies: [Coding, Gaming, Music, Design]
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=HoangPhungThanhDat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&v=2" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HoangPhungThanhDat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </div>
 
 
